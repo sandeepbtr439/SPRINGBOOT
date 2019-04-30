@@ -1,0 +1,8 @@
+com\scratchSpring\model\student.class
+com\scratchSpring\StudentEnrollmentAplication.class
+com\scratchSpring\controller\StudentEnrollmentController.class
+com\scratchSpring\dao\StudentDAO$1.class
+com\scratchSpring\EnabledJpaAuditing.class
+com\scratchSpring\dao\StudentDAO$2.class
+com\scratchSpring\dao\StudentDAO$3.class
+com\scratchSpring\dao\StudentDAO.class
